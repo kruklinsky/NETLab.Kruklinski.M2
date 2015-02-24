@@ -1,0 +1,5 @@
+F:\Workspase\.NET Lab\Online\UnitTest\ClassLibrary\bin\Debug\ClassLibrary.dll
+F:\Workspase\.NET Lab\Online\UnitTest\ClassLibrary\bin\Debug\ClassLibrary.pdb
+F:\Workspase\.NET Lab\Online\UnitTest\ClassLibrary\obj\Debug\ClassLibrary.dll
+F:\Workspase\.NET Lab\Online\UnitTest\ClassLibrary\obj\Debug\ClassLibrary.pdb
+F:\Workspase\.NET Lab\Online\UnitTest\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

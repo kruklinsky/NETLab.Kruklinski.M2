@@ -1,0 +1,9 @@
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\bin\Debug\ClassLibrary.dll
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\bin\Debug\Moq.dll
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\bin\Debug\ClassLibrary.pdb
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\bin\Debug\Moq.xml
+F:\Workspase\.NET Lab\Online\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
