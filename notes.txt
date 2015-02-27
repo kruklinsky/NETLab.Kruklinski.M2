@@ -1,0 +1,4 @@
+Features
+- DDT
+- Moq unit testing
+- Strategy pattern(?)
